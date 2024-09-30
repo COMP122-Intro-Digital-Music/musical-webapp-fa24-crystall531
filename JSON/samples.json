@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "name": "Cyeo_Sample_1",
+    "file": "samples/Piano_Sound_1.wav",
+    "bpm": "120",
+    "loop": "1m"
+  }
+]
